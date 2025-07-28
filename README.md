@@ -55,8 +55,8 @@ bash
 ### 3. Ejecuta un archivo
 ```
 bash
-    npx tsc ejemplos/perfil.ts
-    node ejemplos/perfil.js
+    npx tsc ejemplos/app.ts
+    node ejemplos/app.js
 ```
 ## 👩‍💻 Realizado por
 
