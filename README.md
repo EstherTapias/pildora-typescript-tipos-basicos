@@ -31,11 +31,7 @@ Este repositorio contiene el contenido, presentación y ejercicios prácticos de
 ├── presentacion/
 │ └── pildora-typescript-tipos-basicos.pdf
 ├── ejemplos/
-│ ├── perfil.ts
-│ └── funciones.ts
-└── retos/
-├── reto-corregir-errores.ts
-└── reto-enum-union.ts
+
 ```
 
 ---
