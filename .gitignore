@@ -1,1 +1,16 @@
-node_modules
+# Carpetas que no queremos subir
+node_modules/
+dist/
+build/
+
+# Archivos JS generados desde TS
+*.js
+*.js.map
+
+# Archivos de configuración opcionales
+.env
+.DS_Store
+
+# Opcional: archivos compilados de casos prácticos
+app/*.js
+perfil/*.js

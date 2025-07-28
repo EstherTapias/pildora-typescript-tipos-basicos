@@ -7,10 +7,9 @@ Este repositorio contiene el contenido, presentación y ejercicios prácticos de
 ## 🧠 ¿Qué incluye?
 
 - ✅ **Presentación tipo Canva** con introducción, ejemplos y tipos avanzados.
-- ✅ Explicación clara de los tipos básicos (`string`, `number`, `boolean`, `array`, `tuple`, `enum`, etc.).
+- ✅ Explicación clara de los tipos básicos (`string`, `number`, `boolean`, `array`, `tuple`, etc.).
 - ✅ Casos prácticos paso a paso para practicar en VSCode.
 - ✅ Instalación y configuración de TypeScript en entorno local.
-- ✅ Retos para reforzar el aprendizaje.
 - ✅ Código comentado y didáctico.
 
 ---
