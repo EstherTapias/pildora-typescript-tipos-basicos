@@ -1,0 +1,15 @@
+{
+  "name": "pildora-typescript-tipos-basicos",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el contenido, presentación y ejercicios prácticos de una píldora formativa sobre **TypeScript**, centrada en el uso de los **tipos básicos** y funciones. Ha sido creada como parte de mi formación en el bootcamp de desarrollo web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
