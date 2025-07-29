@@ -69,11 +69,11 @@ Desarrolladora Fullstack en formación | Apasionada por el aprendizaje continuo 
 
 
 ## 📎 Recursos útiles
-Playground oficial de TS
 
-Guía rápida de TS
+- 📽 [Tipos básicos | Clase 1 | Curso TypeScript](https://www.youtube.com/watch?v=RC6PVpSQJW4)
+- 📽 [Tipos de Datos Básicos en TypeScript -- Curso de TypeScript #03](https://www.youtube.com/watch?v=Nleb0gd5t3M)
+- 📃 [Documentación oficial TypeScript](https://www.typescriptlang.org/es/docs/)
 
-Canva para crear presentaciones visuales
 
 ## 💡 Licencia
 Este proyecto es educativo y de uso libre. Si te resulta útil, ¡siéntete libre de compartir o contribuir!
